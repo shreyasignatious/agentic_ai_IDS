@@ -535,14 +535,3 @@ This project demonstrates a hybrid AI-based cybersecurity analysis framework int
 - Use Python virtual environment for all commands.
 
 ---
-
-# Author
-
-AI-Assisted Cybersecurity Analysis Framework
-
-Developed for:
-
-Module: Cyber and Artificial Intelligence (Applications)
-
-Course: Artificial Intelligence with Professional Placement
-
